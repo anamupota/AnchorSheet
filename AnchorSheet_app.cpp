@@ -1,6 +1,7 @@
 /*
 * Simple Wiselib Example
 * The new code is here.
+* Also another commit.
 */
 
 #include "external_interface/external_interface.h"
